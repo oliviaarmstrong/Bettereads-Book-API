@@ -7,3 +7,4 @@ ID: 23467815
 
 
 ## Notes:
+node modules folder not included
